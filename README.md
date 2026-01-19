@@ -92,7 +92,7 @@ Processor: Octa-core or better
 Building from Source
 bash
 # Clone the repository
-git clone https://github.com/yourusername/game-ultra.git
+git clone https://github.com/Heshamabas2211/ame-Performance.git
 
 # Open in Android Studio
 # Build and run on device/emulator
